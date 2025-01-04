@@ -104,7 +104,7 @@ def filter_candidates():
 def build_gui():
     # Creates the layout of the GUI, which creates text boxes to display user data and input our filters
     root = tk.Tk()
-    root.title("Job Candidate Filter")
+    root.title("Skill Finder")
     root.geometry("1280x720")
 
     # Dark theme styles
