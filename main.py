@@ -107,7 +107,7 @@ def build_gui():
     root.title("Skill Finder")
     root.geometry("1280x720")
 
-    # Dark theme styles
+    # Dark theme style
     root.configure(bg="#1e1e1e")
     style = ttk.Style()
     style.theme_use("clam")
