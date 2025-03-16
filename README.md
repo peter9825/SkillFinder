@@ -34,7 +34,7 @@ such as minimum years of experience and college graduate status.
 
 
 # Running the Application
-- Clone the Repository: git clone <repository-url> cd <repository-directory>
+- Clone the Repository
 - Install the required Python packages using pip: pip install requests pytest
 - Configure the API Key: Create a file named secret.txt in the project directory and add your API key.
   This key is used for authenticating the API call.
