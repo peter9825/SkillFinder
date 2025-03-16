@@ -1,7 +1,7 @@
 # SkillFinder
 
-Python application that retrieves candidate data from a remote API, stores it in a SQLite database, and provides an interactive GUI 
-for filtering and displaying candidate information. It is designed to help users quickly identify candidates based on specific criteria, 
+Python application that retrieves candidate data from a remote API, stores it in an SQLite database and provides an interactive GUI 
+for filtering and displaying candidate information. It is designed to help users quickly identify candidates based on specific criteria 
 such as minimum years of experience and college graduate status.
 
 
@@ -16,7 +16,7 @@ such as minimum years of experience and college graduate status.
   Allows users to filter candidate records by minimum years of experience and college graduate status.
 
 - User-Friendly GUI:
-  Offers an interactive interface with options to apply filters and view
+  Interactive interface with options to apply filters and view
   detailed candidate information in a scrollable text area.
 
 - Automated Testing:
@@ -27,9 +27,10 @@ such as minimum years of experience and college graduate status.
 - Python 3.x 
 - Tkinter 
 - SQLite 
-- Requests
-- Pytest
 - IDE (PyCharm)
+- Pytest (pip install pytest)
+- Requests (pip install requests)
+- Personal Wufoo API Key
 
 
 # Running the Application
